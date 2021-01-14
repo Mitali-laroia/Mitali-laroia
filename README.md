@@ -13,7 +13,8 @@ Skills: NODE JS/ REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitali-laroia&show_icons=true&theme=radical) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mitali-laroia)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Profile views](https://gpvc.arturio.dev/Mitali-laroia)  
 
