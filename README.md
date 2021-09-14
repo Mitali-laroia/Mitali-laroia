@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="profile-gif"  width="700" height="450"/></p>
+<p align="center"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="profile-gif"  width="500px" height="300px"/></p>
 
 <h1 align="center">Hi 👋, I'm Mitali Laroia</h1>
 <h3 align="center">An aspiring full stack web developer</h3>
